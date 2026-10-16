@@ -143,8 +143,8 @@ These tools are for **educational and defensive security purposes only**.
 
 ```bash
 # 1. Clone or download this repository
-git clone https://github.com/PrinceRanga120/Internship-Files.git
-cd Internship-Files
+git clone https://github.com/yashkaran-13/My-Collage-Internship-Projects.git
+cd My-Collage-Internship-Projects
 
 # 2. Try the password checker
 python password_strength_checker.py
